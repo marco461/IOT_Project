@@ -4,6 +4,9 @@
 
 This project involves two main components: an ESP32 microcontroller that reads data from various sensors and uploads it to Firebase, and a Python application that monitors and visualizes this data in real-time using Tkinter.
 
+## Diagram 
+![Uploading Iot_diagram.png…]()
+
 ### Part 1: ESP32 Sensor Integration
 
 #### Initial Setup
@@ -177,4 +180,4 @@ if __name__ == "__main__":
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-!iot_diagram.png
+
