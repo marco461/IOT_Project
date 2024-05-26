@@ -177,4 +177,4 @@ if __name__ == "__main__":
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-![ESP32 Setup](images/esp32_setup.jpg)
+![ESP32 Setup](iot_diagram.png)
